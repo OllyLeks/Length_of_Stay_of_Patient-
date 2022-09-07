@@ -19,16 +19,6 @@ Another way I looked at the model was to plot the proportion of accurate predict
 <img src="images/rms_comparison.png" />
 
 
-## Getting Started
-
-Cloning the git repository and installing the provided packages will help you get a copy of the project up and running on your local machine. The analysis for this project was performed using Jupyter Notebook (.ipynb) and the packages were managed using the Ananconda platform. 
-
-```
-git clone https://github.com/daniel-codes/hospital-los-predictor
-pip install -r /path/to/requirements.txt
-```
-
-
 
 ## Authors
 
